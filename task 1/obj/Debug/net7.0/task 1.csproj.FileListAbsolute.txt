@@ -1,0 +1,15 @@
+C:\hm1701\task 1\bin\Debug\net7.0\task 1.exe
+C:\hm1701\task 1\bin\Debug\net7.0\task 1.deps.json
+C:\hm1701\task 1\bin\Debug\net7.0\task 1.runtimeconfig.json
+C:\hm1701\task 1\bin\Debug\net7.0\task 1.dll
+C:\hm1701\task 1\bin\Debug\net7.0\task 1.pdb
+C:\hm1701\task 1\obj\Debug\net7.0\task 1.csproj.AssemblyReference.cache
+C:\hm1701\task 1\obj\Debug\net7.0\task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\hm1701\task 1\obj\Debug\net7.0\task 1.AssemblyInfoInputs.cache
+C:\hm1701\task 1\obj\Debug\net7.0\task 1.AssemblyInfo.cs
+C:\hm1701\task 1\obj\Debug\net7.0\task 1.csproj.CoreCompileInputs.cache
+C:\hm1701\task 1\obj\Debug\net7.0\task 1.dll
+C:\hm1701\task 1\obj\Debug\net7.0\refint\task 1.dll
+C:\hm1701\task 1\obj\Debug\net7.0\task 1.pdb
+C:\hm1701\task 1\obj\Debug\net7.0\task 1.genruntimeconfig.cache
+C:\hm1701\task 1\obj\Debug\net7.0\ref\task 1.dll
